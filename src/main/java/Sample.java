@@ -7,5 +7,6 @@ public class Sample {
         System.out.println("sample!");
         System.out.println("develop");
         System.out.println("return");
+        System.out.println("test");
     }
 }
