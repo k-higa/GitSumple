@@ -8,5 +8,7 @@ public class Sample {
         System.out.println("develop");
         System.out.println("return");
         System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("h");
     }
 }
